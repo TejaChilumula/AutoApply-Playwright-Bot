@@ -1,0 +1,10 @@
+{
+  "Software": ["software", "backend", "full stack", "c++", "golang", "distributed"],
+  "Data": ["data", "machine learning", "ml", "ai", "analytics"],
+  "DevOps": ["devops", "sre", "kubernetes", "cloud", "platform"],
+  "_map": {
+    "Software": "uploads/resumes/software_resume.pdf",
+    "Data": "uploads/resumes/data_resume.pdf",
+    "DevOps": "uploads/resumes/devops_resume.pdf"
+  }
+}

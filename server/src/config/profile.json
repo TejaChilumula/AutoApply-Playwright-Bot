@@ -1,0 +1,11 @@
+{
+  "first_name": "Alex",
+  "last_name": "Candidate",
+  "email": "alex@example.com",
+  "phone": "+1-555-123-4567",
+  "city": "San Jose",
+  "state": "CA",
+  "country": "USA",
+  "linkedin": "https://www.linkedin.com/in/alex",
+  "website": "https://alex.dev"
+}

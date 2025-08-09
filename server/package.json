@@ -1,0 +1,26 @@
+{
+  "name": "autoapply-server",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "node ./src/index.js",
+    "install:playwright": "npx playwright install --with-deps"
+  },
+  "dependencies": {
+    "@fast-csv/parse": "^5.0.0",
+    "@fast-csv/format": "^5.0.0",
+    "axios": "^1.7.2",
+    "better-sqlite3": "^9.4.0",
+    "cheerio": "^1.0.0",
+    "csv-parse": "^5.5.5",
+    "csv-stringify": "^6.5.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "openai": "^4.52.0",
+    "p-limit": "^6.1.0",
+    "playwright": "^1.46.0"
+  }
+}
