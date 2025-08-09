@@ -16,5 +16,6 @@ export function pickResumeForTitle(title, rules) {
     const p = rules._map[k];
     if (p && fs.existsSync(p)) return p;
   }
+  // resume
   return null;
 }
